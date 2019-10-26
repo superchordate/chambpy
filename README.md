@@ -26,3 +26,12 @@ X = 'X'
 y = 'y'
 save( 'sample.pkl', X, y )
 ```
+
+# Functions
+
+**saveload** module:
+
+|Function|Description|
+|---|---|
+|save|Saves multiple objects in a pickle file (.pkl). First arg must be the path. Other arguments will be saved as a named dictionary.|
+|load|Loads objects saved with save() into the global environment.|
