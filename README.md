@@ -3,8 +3,6 @@
 My commonly-used code. I'm an R developer primarily, so I typically
 use function names from R so I can remember them easily.
 
-*Package init format sourced from https://github.com/pypa/sampleproject.*
-
 # Installation
 
 * Download and unzip these files.
